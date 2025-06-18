@@ -1,3 +1,4 @@
+theme: awesome-jekyll-theme
 title: AwesomeJT
 logo: /assets/images/logo.avif
 baseurl: /public
@@ -25,7 +26,7 @@ collections:
 contact_channels_section: true
 contact_channels:
   # email: "example@example.cl"
-  github: "https://github.com/"
+  # github: "https://github.com/"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
