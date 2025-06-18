@@ -1,4 +1,4 @@
-theme: awesome-jekyll-theme
+remote_theme: a-chacon/awesome-jekyll-theme/
 title: AwesomeJT
 logo: /assets/images/logo.avif
 baseurl: /public
