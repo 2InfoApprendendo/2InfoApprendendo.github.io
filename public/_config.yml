@@ -36,6 +36,7 @@ active_lang: pt-BR
 # remote-theme: "a-chacon/awesome-jekyll-theme" # remote theme for GitHub Pages
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
