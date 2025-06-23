@@ -3,10 +3,10 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    awesome-jekyll-theme (1.2.1)
+    awesome-jekyll-theme (1.3.1)
       jekyll (~> 4.3)
-      jekyll-archives (~> 2.2.1)
-      jekyll-polyglot (~> 1.8)
+      jekyll-archives (~> 2.3)
+      jekyll-polyglot (~> 1.9)
       jekyll-seo-tag (~> 2.8.0)
     base64 (0.3.0)
     bigdecimal (3.2.2)
@@ -78,7 +78,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-archives (2.2.1)
+    jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
@@ -171,7 +171,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  awesome-jekyll-theme (~> 1.2)
+  awesome-jekyll-theme
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
