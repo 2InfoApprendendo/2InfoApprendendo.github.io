@@ -31,7 +31,7 @@ lang: pt-BR
 active_lang: pt-BR
 
 # Build settings
-theme: minima
+# theme: minima
 # theme: awesome-jekyll-theme
 # remote-theme: "a-chacon/awesome-jekyll-theme" # remote theme for GitHub Pages
 plugins:
