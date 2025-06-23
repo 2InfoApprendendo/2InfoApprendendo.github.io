@@ -28,6 +28,7 @@ jobs:
         run: |
           cd public
           bundle install
+          bundle exec jekyll build
       - name: Build with Jekyll (manual)
         run: |
           cd public
