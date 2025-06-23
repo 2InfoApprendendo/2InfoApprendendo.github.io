@@ -10,9 +10,9 @@ categories: php
 ## Exemplos de declaração de variáveis:
 
 ```php
-$nome = "João"; // É uma variavel com caracteres (string)
-$idade = 30; // É uma varivael com numeros inteiros
-$email = "joao@exemplo.com";
+$nome = "Camila"; // É uma variavel com caracteres (string)
+$idade = 31; // É uma varivael com numeros inteiros
+$email = "camila@exemplo.com";
 $resultado = true; // É uma variavel booleana
 $valor = 2.50; // É uma variavel com numeros reais
 ```
@@ -35,7 +35,7 @@ Com o PHP podemos criar novas variáveis definindo como o nome dessas o conteúd
 $nome = 'variavel';
 
 //Declaração da nova variável. O identificador será o conteúdo de $nome
-$$nome = 'DevMedia';
+$$nome = 'ETEC Bartolomeu';
 
 //Exibe o conteúdo de $variavel
 echo $variavel;
@@ -74,4 +74,6 @@ class Cadastro {
 
 * Sempre salve o arquivo com a sua edição e recarregue a página para ver visualmente.
 
-Original de [DevMedia](https://www.devmedia.com.br/php-declaracao-e-atribuicao-de-variaveis-e-constantes/38220) e [Slides da Prof](https://docs.google.com/presentation/d/1YEwZDj3L7Isnbkl2DANMtSHwsx0Y5TaOPg0WPttDe2M/edit?slide=id.g346a92fc837_0_143#slide=id.g346a92fc837_0_143)
+Original de [DevMedia](https://www.devmedia.com.br/php-declaracao-e-atribuicao-de-variaveis-e-constantes/38220),
+[Slides da Prof](https://docs.google.com/presentation/d/1YEwZDj3L7Isnbkl2DANMtSHwsx0Y5TaOPg0WPttDe2M/edit?slide=id.g346a92fc837_0_143#slide=id.g346a92fc837_0_143) e
+[LinkedIn](https://www.linkedin.com/pulse/vari%C3%A1veis-e-constantes-em-php-diferen%C3%A7as-compara%C3%A7%C3%B5es-ngqpf/?trackingId=wA%2BIvfr4qBlQkahTK%2FOLWQ%3D%3D)
