@@ -76,6 +76,7 @@ const MAX_TENTATIVAS = 5;
 ```
 
 ## ⚠️ Diferenças importantes com variáveis:
+
 | Aspecto      | Constantes            | Variáveis                           |
 | ------------ | --------------------- | ----------------------------------- |
 | Símbolo      | Sem `$`               | Começam com `$`                     |
