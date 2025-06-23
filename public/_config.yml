@@ -25,8 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Milla
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: #
-github_username:  2InfoApprendendo
 
 # Build settings
 theme: awesome-jekyll-theme #tema Ruby Gem
@@ -68,6 +66,23 @@ jekyll-archives:
   layout: blog
   permalinks:
     category: "/category/:name/"
+
+# Contact Channels configuration
+# Uncomment for enable. Available contact channels are email, github, telegram, stackoverflow, discord, mastodon.
+# Please fell free to send a PR if you need a new one.
+# DISABLE GITHUB setting it as an empty string: ""
+# if false, then no contact channels will be display.
+##
+contact_channels_section: true
+contact_channels:
+  # email: "example@example.cl"
+  github: "https://github.com/2InfoApprendendo"
+  # telegram: "https://t.me/"
+  # stackoverflow: "https://stackoverflow.com"
+  # discord: "https://discord.com/"
+  # mastodon: "https://lile.cl/"
+  # threads: "https://www.threads.net/@example"
+  # linkedin: "https://www.linkedin.com/in/example/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
