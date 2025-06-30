@@ -28,15 +28,14 @@ jobs:
         run: |
           cd public
           bundle install
-          bundle exec jekyll build
-      - name: Build with Jekyll (manual)
+      - name: Build with Jekyll
         run: |
           cd public
-          bundle exec jekyll build -d ../_site
+          bundle exec jekyll build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: public/_site
 
   deploy:
     environment:
