@@ -9,7 +9,7 @@
 
 class Variaveis {
     //Variavel $nome recebe o valor “variavel”
-    private $nome = 'variavel';
+    public $nome = 'variavel';
 
     //Declaração da nova variável. O identificador será o conteúdo de $nome
     // O codigo precisará ser comentado, pois não é possivel gerar em todos os compiladores o resultado
