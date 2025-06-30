@@ -1,4 +1,10 @@
 <?php
+/***
+ * Aula sobre Condicionais e Lógica
+ * Conteúdo da aula: https://2infoapprendendo.github.io/php/2025/06/23/logica.html
+ * 
+ */
+
 
 // Aula sobre Condicionais - Aviso: a classe vai ser atualizada
 
