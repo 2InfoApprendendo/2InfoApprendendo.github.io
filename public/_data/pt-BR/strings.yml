@@ -2,14 +2,56 @@ home:
   contact_me: "Entre em contato através das redes:"
   blog_title: "Blog: Últimas"
   see_more_posts: "Confira mais ->"
-  projects_title: "Ultimos Projetos"
+  projects_title: "Últimos Projetos"
   see_more_projects: "Confira mais ->"
-footer:
-  title: "Entre em contato!"
-  description: " Localize nestas plataformas. "
-  pages: Páginas
+  welcome: "Bem-vindo ao portal de ensino de PHP!"
+  intro: "Aqui você encontra materiais, exemplos e projetos para aprender PHP do básico ao avançado."
+
+projects:
+  title: "Projetos"
+  see_all: "Ver todos os projetos"
+  no_projects: "Nenhum projeto encontrado."
+  featured: "Projetos em destaque"
+
+about:
+  title: "Sobre"
+  description: "Este site foi criado para apoiar o ensino de PHP para as turmas da ETEC Bartolomeu."
+  team: "Equipe"
+  mission: "Nossa missão é facilitar o aprendizado de programação e arquitetura de software."
+
+pages: "Páginas"
+
 blog:
+  title: "Blog"
   read_more: "Confira Mais ->"
   more_articles: "Mais Posts"
+  no_posts: "Nenhum post encontrado."
+  latest_posts: "Últimos Posts"
+
 post:
-  share: Gostou? Compartilhe!
+  share: "Gostou? Compartilhe!"
+  author: "Autor"
+  published_on: "Publicado em"
+  min_read: "min de leitura"
+  back_to_blog: "Voltar para o blog"
+
+calendar:
+  months:
+    1: Janeiro
+    2: Fevereiro
+    3: Março
+    4: Abril
+    5: Maio
+    6: Junho
+    7: Julho
+    8: Agosto
+    9: Setembro
+    10: Outubro
+    11: Novembro
+    12: Dezembro
+
+footer:
+  title: "Entre em contato!"
+  description: "Localize nestas plataformas."
+  copyright: "Todos os direitos reservados."
+  credits: 'Feito com ❤️ usando o tema <a class="hover:text-sky-400" href="https://github.com/a-chacon/awesome-jekyll-theme">Awesome Jekyll Awesome</a>.'

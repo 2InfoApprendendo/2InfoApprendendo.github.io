@@ -54,11 +54,12 @@
           © <span id="get-current-year">{{currentYear}}</span>
           <a href="https://www.creative-tim.com/product/notus-js" class="text-blueGray-500 hover:text-gray-800"
             target="_blank" aria-label="Creative C">{{site.title}}.</a>
-          All rights reserved.
+            {{ site.data[site.active_lang].strings.footer.copyright | default:
+          site.data['pt-BR'].strings.footer.copyright}}
           <p class="text-xs pt-4">
-            Feito com ❤️ usando o tema
-            <a class="hover:text-sky-400" href="https://github.com/a-chacon/awesome-jekyll-theme">Awesome Jekyll
-              Awesome</a>.
+            
+            {{ site.data[site.active_lang].strings.footer.credits | default:
+          site.data['pt-BR'].strings.footer.credits}}
           </p>
         </div>
       </div>

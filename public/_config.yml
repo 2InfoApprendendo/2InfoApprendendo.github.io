@@ -23,7 +23,7 @@ email: profmilla@apprendendo.blog
 description: >- # this means to ignore newlines until "baseurl:"
   Apprendendo PHP é um blog dedicado a compartilhar conhecimento sobre a linguagem de programação PHP, com tutoriais, dicas e projetos práticos para iniciantes e desenvolvedores experientes.
 author: Milla
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/2InfoApprendendo.github.io" # ou o nome do seu repositório # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -51,7 +51,7 @@ collections:
 ##
 # Polyglot configuration
 ##
-languages: ["pt-BR", "en"]
+languages: ["pt-BR", "en", "es"]
 default_lang: "pt-BR"
 active_lang: "pt-BR"
 exclude_from_localization: ["javascript", "images", "css", "public"]

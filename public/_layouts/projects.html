@@ -1,10 +1,26 @@
 ---
 layout: default
 ---
+<section
+  id="main"
+  class="flex flex-col md:flex-row items-center justify-center py-16 md:h-screen border-b-2"
+>
+  <div class="md:mx-2">
+    <img
+      class="object-cover w-full h-full sm:w-80 sm:h-80 sm:rounded-full"
+      src="{{ page.image | relative_url | default: 'https://ik.imagekit.io/ikmedia/avif_samples/photo3_avif_6O32dW2NT.png' }}"
+      alt="{{ page.description }}"
+    />
+  </div>
+  <div class="fadeIn mx-4 w-4/5 md:w-2/5 text-center md:text-left mt-6 md:mt-0">
+    <div class="prose prose-h1:mb-1">{{ page.main_content | markdownify }}</div>
+  </div>
+</section>
+
 <section class="container mx-auto pt-20 pb-10 lg:pt-[120px] lg:pb-20">
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16">
     {% for project in site.projects %}
-    {% include project_card.html project=project%}
+      {% include project_card.html project=project%}
     {% endfor %}
   </div>
 </section>

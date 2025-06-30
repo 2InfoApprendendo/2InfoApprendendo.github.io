@@ -1,15 +1,57 @@
 home:
   contact_me: "You can contact me on any of these channels:"
-  blog_title: "Blog: Last Posts"
+  blog_title: "Blog: Latest Posts"
   see_more_posts: "See More Posts ->"
-  projects_title: "Last Projects"
+  projects_title: "Latest Projects"
   see_more_projects: "See More Projects ->"
-footer:
-  title: "Let's keep in touch!"
-  description: " Find me on any of these platforms. "
-  pages: Pages
+  welcome: "Welcome to the PHP learning portal!"
+  intro: "Here you will find materials, examples, and projects to learn PHP from basics to advanced."
+
+projects:
+  title: "Projects"
+  see_all: "See all projects"
+  no_projects: "No projects found."
+  featured: "Featured projects"
+
+about:
+  title: "About"
+  description: "This site was created to support PHP teaching for ETEC Bartolomeu classes."
+  team: "Team"
+  mission: "Our mission is to make learning programming and software architecture easier."
+
+pages: "Pages"
+
 blog:
+  title: "Blog"
   read_more: "Read More ->"
   more_articles: "More Posts"
+  no_posts: "No posts found."
+  latest_posts: "Latest Posts"
+
 post:
-  share: Like it? Share it!
+  share: "Like it? Share it!"
+  author: "Author"
+  published_on: "Published on"
+  min_read: "min read"
+  back_to_blog: "Back to blog"
+
+calendar:
+  months:
+    1: "January"
+    2: "February"
+    3: "March"
+    4: "April"
+    5: "May"
+    6: "June"
+    7: "July"
+    8: "August"
+    9: "September"
+    10: "October"
+    11: "November"
+    12: "December"
+
+footer:
+  title: "Let's keep in touch!"
+  description: "Find me on any of these platforms."
+  copyright: "All rights reserved."
+  credits: 'Made with ❤️ using the <a class="hover:text-sky-400" href="https://github.com/a-chacon/awesome-jekyll-theme">Awesome Jekyll Awesome</a> theme.'

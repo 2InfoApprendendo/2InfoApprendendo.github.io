@@ -4,12 +4,54 @@ home:
   see_more_posts: "Ver Más Artículos ->"
   projects_title: "Últimos Proyectos"
   see_more_projects: "Ver Más Proyectos ->"
-footer:
-  title: "Mantengamosnos en contacto!"
-  description: "Encuéntrame en cualquiera de estas plataformas:"
-  pages: Páginas
+  welcome: "¡Bienvenido al portal de enseñanza de PHP!"
+  intro: "Aquí encontrarás materiales, ejemplos y proyectos para aprender PHP desde lo básico hasta lo avanzado."
+
+projects:
+  title: "Proyectos"
+  see_all: "Ver todos los proyectos"
+  no_projects: "No se encontraron proyectos."
+  featured: "Proyectos destacados"
+
+about:
+  title: "Sobre"
+  description: "Este sitio fue creado para apoyar la enseñanza de PHP para las clases de la ETEC Bartolomeu."
+  team: "Equipo"
+  mission: "Nuestra misión es facilitar el aprendizaje de programación y arquitectura de software."
+
+pages: "Páginas"
+
 blog:
-  read_more: "Read More ->"
+  title: "Blog"
+  read_more: "Leer Más ->"
   more_articles: "Más Artículos"
+  no_posts: "No se encontraron artículos."
+  latest_posts: "Últimos Artículos"
+
 post:
-  share: ¿Te gustó? ¡Compártelo!
+  share: "¿Te gustó? ¡Compártelo!"
+  author: "Autor"
+  published_on: "Publicado el"
+  min_read: "min de lectura"
+  back_to_blog: "Volver al blog"
+
+calendar:
+  months:
+    1: Enero
+    2: Febrero
+    3: Marzo
+    4: Abril
+    5: Mayo
+    6: Junio
+    7: Julio
+    8: Agosto
+    9: Septiembre
+    10: Octubre
+    11: Noviembre
+    12: Diciembre
+
+footer:
+  title: "¡Mantengámonos en contacto!"
+  description: "Encuéntrame en cualquiera de estas plataformas:"
+  copyright: "Todos los derechos reservados."
+  credits: 'Hecho con ❤️ usando el tema <a class="hover:text-sky-400" href="https://github.com/a-chacon/awesome-jekyll-theme">Awesome Jekyll Awesome</a>.'

@@ -8,7 +8,7 @@
     </div>
     <div class="my-4">
       {% for tag in include.project.tags %}
-      <category class="font-mulish text-sm text-gray-500">#{{ tag | xml_escape }}</category>
+        <category class="font-mulish text-sm text-gray-500">#{{ tag | xml_escape }}</category>
       {% endfor %}
     </div>
   </a>

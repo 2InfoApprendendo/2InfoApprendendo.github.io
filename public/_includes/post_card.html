@@ -20,6 +20,9 @@
     </a>
   </div>
   <span class="text-sm text-gray-500 pt-6">
-    {{ include.post.date | date: "%-d/%-m/%Y" }}
+    {% assign day = include.post.date | date: "%-d" %}
+    {% assign month = include.post.date | date: "%-m" | plus: 0 %}
+    {% assign year = include.post.date | date: "%Y" %}
+    {{ day }}/{{ site.data[site.active_lang].strings.calendar.months[month] }}/{{ year }}
   </span>
 </div>
