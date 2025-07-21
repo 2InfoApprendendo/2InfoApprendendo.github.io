@@ -16,6 +16,27 @@ app/
 │       ├── 04_metodos_magicos.php
 │       └── 05_classe_autenticacao.php
 │       └── 06_classe_autenticacao_instancia.php
+├── conexao/
+│   └── aulas/
+│       ├── 01_conexao_mysql.php
+├── manipulacao_de_dados/
+│   └── aulas/
+│       ├── 01_insercao_dados.php
+│       ├── 02_atualizacao_dados.php
+│       ├── 03_exclusao_dados.php
+│       └── 04_consulta_dados.php
+├── manipulacao_de_sessao/
+│   └── aulas/
+│       ├── 01_inicializacao_sessao.php
+│       ├── 02_armazenamento_dados.php
+│       ├── 03_recuperacao_dados.php
+│       └── 04_destruicao_sessao.php
+├── manipulacao_de_arquivos/
+│   └── aulas/
+│       ├── 01_criacao_arquivo.php
+│       ├── 02_leitura_arquivo.php
+│       ├── 03_escrita_arquivo.php
+│       └── 04_exclusao_arquivo.php
 ├── arquiteturas/
 │   └── aulas/
 │       ├── 01_mvc_basico.php
