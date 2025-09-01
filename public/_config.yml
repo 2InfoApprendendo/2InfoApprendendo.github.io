@@ -63,9 +63,11 @@ parallel_localization: true
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: blog
   permalinks:
-    category: "/category/:name/"
+    category: "/cat/:name/"
+    tags: "/tag/:name/"
 
 # Contact Channels configuration
 # Uncomment for enable. Available contact channels are email, github, telegram, stackoverflow, discord, mastodon.
