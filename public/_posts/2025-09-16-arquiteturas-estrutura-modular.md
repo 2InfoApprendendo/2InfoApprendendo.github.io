@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MVC: Estrutura Modular - Construindo com Blocos de Lego"
-date:   2025-09-16 00:51:01 +0000
+date:   2025-09-12 00:51:01 +0000
 categories: php
 ---
 

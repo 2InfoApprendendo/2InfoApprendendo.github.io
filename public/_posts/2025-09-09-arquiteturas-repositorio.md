@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MVC: O Padrão Repositório - Um Cozinheiro para Cada Prato"
-date:   2025-09-09 00:51:01 +0000
+date:   2025-09-10 00:51:01 +0000
 categories: php
 ---
 

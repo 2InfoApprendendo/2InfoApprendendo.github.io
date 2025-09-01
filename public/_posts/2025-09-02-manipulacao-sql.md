@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manipulação de Dados (CRUD) com PHP e MySQL"
-date:   2025-09-02 00:51:01 +0000
+date:   2025-09-04 00:51:01 +0000
 categories: php
 ---
 

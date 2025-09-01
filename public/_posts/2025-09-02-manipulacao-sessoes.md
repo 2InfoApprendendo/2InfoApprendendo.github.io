@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Magia das Sessões: Mantendo o Estado no PHP"
-date:   2025-09-02 00:51:01 +0000
+date:   2025-09-03 00:51:01 +0000
 categories: php
 ---
 

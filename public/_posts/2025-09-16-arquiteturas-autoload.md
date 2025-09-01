@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MVC: Autoload - Acabando com a Bagunça dos `include`s"
-date:   2025-09-16 00:51:01 +0000
+date:   2025-09-11 00:51:01 +0000
 categories: php
 ---
 
