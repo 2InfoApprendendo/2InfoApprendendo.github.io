@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Classes e Conexões com PHP (Parte 2): Instanciando e Usando Objetos"
-date:   2025-09-02 00:51:01 +0000
+date:   2025-09-02 01:00:00 -3000
 categories: php
 ---
 
