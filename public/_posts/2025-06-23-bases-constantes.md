@@ -4,6 +4,7 @@ title:  "O que são as constantes em PHP?"
 date:   2025-06-18 19:43:01 -3000
 image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-3.jpg?raw=true
 categories: php
+tags: constantes, bases, definições
 ---
 
 <div align="center">
