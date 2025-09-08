@@ -2,7 +2,7 @@
 layout: post
 title:  "O que são as variáveis em PHP?"
 date:   2025-06-18 19:43:01 -3000
-image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-2.png?raw=true
+image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-2.jpg?raw=true
 categories: php
 tags: bases, variaveis, definições
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Bases das Linguagens: Iniciando em PHP"
 date:   2025-06-18 19:41:01 -3000
-image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-1.png?raw=true
+image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-1.jpg?raw=true
 categories: php
 tags: bases, iniciante, historia
 ---
