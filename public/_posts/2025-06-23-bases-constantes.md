@@ -5,6 +5,7 @@ date:   2025-06-18 19:43:01 -3000
 image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-3.jpg?raw=true
 categories: php
 tags: constantes, bases, definições
+excerpt: Constantes são identificadores usados para armazenar valores que não podem ser modificados depois de definidos. Ou seja, uma vez que você declara uma constante, seu valor será sempre o mesmo durante a execução do programa.
 ---
 
 <div align="center">

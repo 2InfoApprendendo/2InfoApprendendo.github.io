@@ -5,6 +5,7 @@ date:   2025-06-18 19:41:01 -3000
 image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-1.jpg?raw=true
 categories: php
 tags: bases, iniciante, historia
+excerpt: Muita gente que está começando na área de tecnologia ou migrando de carreira sente um certo bloqueio quando sente o "aconselhamento" em aprender mais de uma linguagem de programação, ao mesmo tempo.
 ---
 
 <div align="center">

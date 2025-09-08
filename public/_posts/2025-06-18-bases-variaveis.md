@@ -5,6 +5,7 @@ date:   2025-06-18 19:43:01 -3000
 image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-2.jpg?raw=true
 categories: php
 tags: bases, variaveis, definições
+excerpt: É onde armazenamos os dados. Sempre a declaramos com o símbolo $. Variáveis podem ser palavras (strings), números inteiros ou reais (int ou float) ou booleanos.
 ---
 
 <div align="center">
