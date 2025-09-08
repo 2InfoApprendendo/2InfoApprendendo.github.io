@@ -2,7 +2,7 @@
 layout: post
 title:  "Bases das Linguagens: Iniciando em PHP"
 date:   2025-06-18 19:41:01 -3000
-random_image: https://img.youtube.com/vi/IFyPXYySXXA/0.jpg
+image: https://img.youtube.com/vi/IFyPXYySXXA/0.jpg
 categories: php
 tags: bases, iniciante, historia
 ---

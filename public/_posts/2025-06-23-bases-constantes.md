@@ -2,7 +2,7 @@
 layout: post
 title:  "O que são as constantes em PHP?"
 date:   2025-06-18 19:43:01 -3000
-random_image: https://img.youtube.com/vi/p8ZjXZ2J11E/0.jpg
+image: https://img.youtube.com/vi/p8ZjXZ2J11E/0.jpg
 categories: php
 ---
 
