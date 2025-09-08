@@ -2,13 +2,13 @@
 layout: post
 title:  "O que são as variáveis em PHP?"
 date:   2025-06-18 19:43:01 -3000
-image: https://img.youtube.com/vi/yO3dOMqCA/0.jpg
+image: https://img.youtube.com/vi/x-yO3dOMqCA/0.jpg
 categories: php
 tags: bases, variaveis, definições
 ---
 
 <div align="center">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/yO3dOMqCA?si=fpH2x_0tBvxxqGve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/x-yO3dOMqCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## O que são as variáveis em PHP?

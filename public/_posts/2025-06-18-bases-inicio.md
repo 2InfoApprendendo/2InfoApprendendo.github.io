@@ -8,7 +8,7 @@ tags: bases, iniciante, historia
 ---
 
 <div align="center">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/IFyPXYySXXA?si=fpH2x_0tBvxxqGve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/IFyPXYySXXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Como posso começar?
