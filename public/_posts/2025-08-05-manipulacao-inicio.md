@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vetores e Listas - Manipulação de Dados"
-date:   2025-08-05 00:51:01 +0000
+date:   2025-08-05 00:51:01 -3000
 categories: php
 ---
 

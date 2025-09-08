@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "POO (Programação Orientada a Objetos) com Conexão ao Banco de Dados"
-date:   2025-08-05 00:51:01 +0000
+date:   2025-08-05 00:51:01 -3000
 categories: php
 ---
 
