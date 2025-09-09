@@ -19,3 +19,9 @@
 a.gentle-clicked {
   animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
 }
+
+i.social {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #333333;
+}
