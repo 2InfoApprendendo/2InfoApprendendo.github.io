@@ -5,7 +5,7 @@ date:   2025-06-23 15:41:01 -3000
 image: https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/blob/site/public/assets/images/posts/bases-4.jpg?raw=true
 categories: php
 tags: lógica, bases, estruturas
-excerpt: Neste artigo, vamos percorrer os principais blocos de decisão em PHP: if/else, if/elseif/else, switch/case, operadores ternários e operadores lógicos. Prepare-se para dominar as decisões do seu código!
+excerpt: Neste artigo, vamos percorrer os principais blocos de decisão em PHP. 
 ---
 
 <div align="center">
