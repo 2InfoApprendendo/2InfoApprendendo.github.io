@@ -5,7 +5,7 @@
     class="transition hover:scale-110 duration-300"
     href="mailto:{{ contact_channels.email }}"
   >
-    <i class="h-6 w-6 fa-solid fa-envelope"></i>
+    <i class="fa-solid fa-envelope"></i>
   </a>
   {% endif %} {% if contact_channels.github and contact_channels.github != ""%}
   <a
@@ -13,7 +13,7 @@
     href="{{ contact_channels.github }}"
     target="_blank"
   >
-    <i class="h-6 w-6 fa-brands fa-{{ contact_channels.github }}"></i>
+    <i class="fa-brands fa-github"></i>
   </a>
   {% endif %} {% if contact_channels.telegram %}
   <a
@@ -21,7 +21,7 @@
     href="{{ contact_channels.telegram }}"
     target="_blank"
   >
-    <i class="h-6 w-6 fa-brands fa-{{ contact_channels.telegram }}"></i>
+    <i class="fa-brands fa-telegram"></i>
   </a>
   {% endif %} {% if contact_channels.stackoverflow %}
   <a
@@ -91,7 +91,7 @@
     href="{{ contact_channels.youtube }}"
     target="_blank"
   >
-    <i class="h-6 w-6 fa-brands fa-{{ contact_channels.youtube }}"></i>
+    <i class="h-6 w-6 fa-brands fa-youtube "></i>
   </a>
   {% endif %}
 </div>
