@@ -2,76 +2,40 @@
   <div class="w-6 h-6">
     {% assign contact_channels = site.contact_channels %} {% if
     contact_channels.email %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="mailto:{{ contact_channels.email }}"
-    >
+    <a class="transition hover:scale-110 duration-300" href="mailto:{{ contact_channels.email }}">
       <i class="fas fa-envelope"></i>
     </a>
     {% endif %} {% if contact_channels.github and contact_channels.github != ""%}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.github }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.github }}" target="_blank">
       <i class="fab fa-github social"></i>
     </a>
     {% endif %} {% if contact_channels.telegram %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.telegram }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.telegram }}" target="_blank">
       <i class="fab fa-telegram social"></i>
     </a>
     {% endif %} {% if contact_channels.stackoverflow %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.stackoverflow }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.stackoverflow }}" target="_blank">
       <i class="fab fa-stack-overflow social"></i>
     </a>
     {% endif %} {% if contact_channels.discord %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.discord }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.discord }}" target="_blank">
       <i class="fab fa-discord social"></i>
     </a>
     {% endif %} {% if contact_channels.mastodon %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      rel="me"
-      href="{{ contact_channels.mastodon }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" rel="me" href="{{ contact_channels.mastodon }}" target="_blank">
       <i class="fab fa-mastodon social"></i>
     </a>
     {% endif %}
     {% if contact_channels.linkedin %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.linkedin }}"
-      target="_blank"
-    >
-      <i class="fab fa-linkedin social"></i> 
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.linkedin }}" target="_blank">
+      <i class="fab fa-linkedin social"></i>
     </a>
     {% endif %} {% if contact_channels.threads %}
-    <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.threads }}"
-      target="_blank"
-    >
-      <i class="fab fa-threads social"></i> 
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.threads }}" target="_blank">
+      <i class="fab fa-threads social"></i>
     </a>
     {% endif %} {% if contact_channels.youtube %}
-      <a
-      class="transition hover:scale-110 duration-300"
-      href="{{ contact_channels.youtube }}"
-      target="_blank"
-    >
+    <a class="transition hover:scale-110 duration-300" href="{{ contact_channels.youtube }}" target="_blank">
       <i class="fab fa-youtube social"></i>
     </a>
     {% endif %}

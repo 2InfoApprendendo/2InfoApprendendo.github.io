@@ -1,9 +1,9 @@
 home:
   contact_me: "You can contact me on any of these channels:"
   blog_title: "Blog: Latest Posts"
-  see_more_posts: "See More Posts ->"
+  see_more_posts: "See More Posts ➔"
   projects_title: "Latest Projects"
-  see_more_projects: "See More Projects ->"
+  see_more_projects: "See More Projects ➔"
   welcome: "Welcome to the PHP learning portal!"
   intro: "Here you will find materials, examples, and projects to learn PHP from basics to advanced."
 
@@ -23,7 +23,7 @@ pages: "Pages"
 
 blog:
   title: "Blog"
-  read_more: "Read More ->"
+  read_more: "Read More ➔"
   more_articles: "More Posts"
   no_posts: "No posts found."
   latest_posts: "Latest Posts"

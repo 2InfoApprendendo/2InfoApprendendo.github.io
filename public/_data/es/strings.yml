@@ -1,9 +1,9 @@
 home:
   contact_me: "Me puedes contactar por cualquiera de estos canales:"
   blog_title: "Blog: Últimos Artículos"
-  see_more_posts: "Ver Más Artículos ->"
+  see_more_posts: "Ver Más Artículos ➔"
   projects_title: "Últimos Proyectos"
-  see_more_projects: "Ver Más Proyectos ->"
+  see_more_projects: "Ver Más Proyectos ➔"
   welcome: "¡Bienvenido al portal de enseñanza de PHP!"
   intro: "Aquí encontrarás materiales, ejemplos y proyectos para aprender PHP desde lo básico hasta lo avanzado."
 
@@ -23,7 +23,7 @@ pages: "Páginas"
 
 blog:
   title: "Blog"
-  read_more: "Leer Más ->"
+  read_more: "Leer Más ➔"
   more_articles: "Más Artículos"
   no_posts: "No se encontraron artículos."
   latest_posts: "Últimos Artículos"
