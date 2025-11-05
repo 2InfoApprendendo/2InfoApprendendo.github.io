@@ -66,6 +66,7 @@ jekyll-archives:
     - tags
   layout: blog
   permalinks:
+    blog: "/blog/"
     category: "/cat/:name/"
     tags: "/tag/:name/"
 
